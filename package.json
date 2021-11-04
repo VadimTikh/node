@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "google-spreadsheet": "^3.1.15",
+    "privatbank-api": "^1.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "16.13.0"
+  }
+}
